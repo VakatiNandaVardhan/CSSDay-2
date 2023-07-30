@@ -1,0 +1,70 @@
+.card{
+    border: 1px solid lightgrey;
+    border-radius: 14px;
+    padding:10px;
+    width: 270px;
+    margin: 20px auto;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.cardheader{
+    width: 100%;
+    position: relative;
+    }
+.imgs{
+width: 100%;
+/*position: relative;*/
+border-radius: 14px;
+}
+.prom{
+    position: absolute;
+    left: 5px;
+    top:-3px;
+    background-color:rgba(134, 129, 139, 0.551);
+    color:rgb(247, 241, 241);
+    border-radius: 10px;
+    font-weight: 100;
+    font-size:15px;
+    padding: 3px;
+}
+.off{
+    position: absolute;
+    left: 0px;
+    bottom:5px;
+    background-color: rgb(24, 85, 190);
+    color: white;
+    font-size: 15px;
+    padding: 2px;
+}
+.min{
+    position: absolute;
+    bottom: 5px;
+    right: 5px;
+    background-color: aliceblue;
+    font-size: 15px;
+    border-radius: 5px;
+    padding:3px;
+}
+.grey1{
+    color: grey;
+}
+hr{
+    width:95%;
+    align-self: center;
+    size: 10px;
+}
+.cardfooter{
+    position: relative;
+    
+}
+.footerimg{
+
+  width: 35%;
+}
+.grey2{
+    position: absolute;
+   top:3px;
+    color: grey;
+    font-size: small;
+    left: 40%;
+    top:-15px;
+}

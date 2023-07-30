@@ -1,0 +1,39 @@
+
+.main{
+    width: 250px;
+    margin: 50px auto;
+    border: 2px solid grey;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+h3{
+    font-weight: 900;
+    font-size: 25px;
+}
+.grey{
+color: grey;
+}
+.profile{
+    width: 250px;
+    margin: 50px auto;
+    
+}
+
+.profile-header{
+    position: relative;
+}
+.bg{
+    width: 100%;
+}
+.user{
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+    position: absolute;
+    bottom: 0;
+    left:100px;
+    margin-bottom: -30px;
+    border: 2px solid white;
+}

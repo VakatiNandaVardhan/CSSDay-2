@@ -1,0 +1,35 @@
+.imgholder{
+    position:relative ;
+    width: 1080px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 20px auto;
+}
+.imgsrc{
+    width: 100%;
+    border-radius: 30px;
+}
+.heading{
+    font-size: 70px;
+    color: white;
+}
+.text-content{
+    position: absolute;
+    text-align: center;
+    top: 60px;
+    left: 170px;
+    color: white;
+    font-weight: 900;
+}
+.input{
+    font-size: 30px;
+    border: none;
+    border-radius: 40px;
+    background-color: black;
+    color: white;
+    padding: 20px;
+   
+}
+.para{
+    font-size: 30px;
+    color: white;
+}
